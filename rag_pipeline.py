@@ -286,6 +286,7 @@ class RAGPipeline:
         pipeline_options.do_table_structure = True
         pipeline_options.generate_picture_images = True
         pipeline_options.do_picture_description = False
+        pipeline_options.do_ocr = False
 
         converter = DocumentConverter(
             format_options={
