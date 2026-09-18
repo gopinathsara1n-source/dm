@@ -1,0 +1,10 @@
+streamlit>=1.40
+docling
+google-genai
+faiss-cpu
+pypdf
+pillow
+tqdm
+numpy
+pandas
+requests
