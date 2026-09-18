@@ -1,10 +1,11 @@
 streamlit
-docling
+docling==2.128.0
 google-genai
 faiss-cpu
-pypdf
-pillow
-numpy
-pandas
 requests
+numpy
+pillow
+pandas
+pypdf
+rapidocr==3.9.2
 opencv-python-headless
